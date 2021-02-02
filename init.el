@@ -44,4 +44,4 @@
 
 (setq gdb-many-windows t gdb-show-main t)
 
-(global-display-line-numbers-mode)
+;(global-display-line-numbers-mode)
