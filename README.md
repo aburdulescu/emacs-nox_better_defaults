@@ -2,4 +2,8 @@
 Better defaults for emacs-nox
 
 ## Install
-Copy `init.el` to `~/emacs.d/` and run `emacs`.
+```
+git clone https://github.com/aburdulescu/emacs-nox_better_defaults.git
+ln -s ~/emacs-nox_better_defaults/init.el ~/emacs.d/init.el
+```
+
